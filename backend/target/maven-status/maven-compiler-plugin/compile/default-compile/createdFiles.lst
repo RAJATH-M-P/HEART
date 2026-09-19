@@ -5,6 +5,7 @@ com\medicalar\api\model\Finding.class
 com\medicalar\api\repository\ReportRepository.class
 com\armedviz\service\TextExtractionService.class
 com\medicalar\api\controller\ReportController.class
+com\medical\ar\service\NlpService.class
 com\armedviz\model\User$UserBuilder.class
 com\armedviz\dto\LoginRequest.class
 com\armedviz\dto\RegisterRequest.class
@@ -29,6 +30,7 @@ com\armedviz\service\ReportService.class
 com\armedviz\ArMedicalApplication.class
 com\medicalar\api\model\Finding$FindingBuilder.class
 com\medicalar\api\repository\UserRepository.class
+com\medical\ar\controller\ReportController.class
 com\armedviz\controller\HealthController.class
 com\armedviz\service\NlpClientService.class
 com\medicalar\api\model\User$UserBuilder.class
