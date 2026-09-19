@@ -1,0 +1,111 @@
+{
+  "organs": {
+    "heart": {
+      "model_asset": "heart_anatomical_v1",
+      "regions": {
+        "left_ventricle": {
+          "name": "Left Ventricle",
+          "mesh_id": "mesh_left_ventricle",
+          "function": "Pumps oxygenated blood to the entire body."
+        },
+        "right_ventricle": {
+          "name": "Right Ventricle",
+          "mesh_id": "mesh_right_ventricle",
+          "function": "Pumps deoxygenated blood to the lungs."
+        },
+        "left_atrium": {
+          "name": "Left Atrium",
+          "mesh_id": "mesh_left_atrium",
+          "function": "Receives oxygenated blood from the lungs."
+        },
+        "right_atrium": {
+          "name": "Right Atrium",
+          "mesh_id": "mesh_right_atrium",
+          "function": "Receives deoxygenated blood from the body."
+        },
+        "aorta": {
+          "name": "Aorta",
+          "mesh_id": "mesh_aorta",
+          "function": "Main artery carrying blood from the heart to the body."
+        },
+        "pulmonary_artery": {
+          "name": "Pulmonary Artery",
+          "mesh_id": "mesh_pulmonary_artery",
+          "function": "Carries deoxygenated blood to the lungs."
+        },
+        "mitral_valve": {
+          "name": "Mitral Valve",
+          "mesh_id": "mesh_mitral_valve",
+          "function": "Regulates flow from left atrium to left ventricle."
+        },
+        "tricuspid_valve": {
+          "name": "Tricuspid Valve",
+          "mesh_id": "mesh_tricuspid_valve",
+          "function": "Regulates flow from right atrium to right ventricle."
+        },
+        "aortic_valve": {
+          "name": "Aortic Valve",
+          "mesh_id": "mesh_aortic_valve",
+          "function": "Regulates flow from left ventricle to aorta."
+        },
+        "pulmonary_valve": {
+          "name": "Pulmonary Valve",
+          "mesh_id": "mesh_pulmonary_valve",
+          "function": "Regulates flow from right ventricle to pulmonary artery."
+        },
+        "coronary_arteries": {
+          "name": "Coronary Arteries",
+          "mesh_id": "mesh_coronary_arteries",
+          "function": "Supplies oxygenated blood to the heart muscle itself."
+        }
+      }
+    },
+    "kidney": {
+      "model_asset": "kidney_anatomical_v1",
+      "regions": {
+        "glomerulus": {
+          "name": "Glomerulus",
+          "mesh_id": "mesh_glomerulus",
+          "function": "Filters blood to create urine."
+        }
+      }
+    }
+  },
+  "conditions": {
+    "left_ventricular_hypertrophy": {
+      "name": "Left Ventricular Hypertrophy",
+      "organ": "heart",
+      "region": "left_ventricle",
+      "description": "Thickening of the muscular wall of the left ventricle, often due to high blood pressure.",
+      "keywords": ["left ventricular hypertrophy", "lvh", "lv wall thickness", "thickened left ventricle"]
+    },
+    "myocardial_infarction": {
+      "name": "Myocardial Infarction",
+      "organ": "heart",
+      "region": "left_ventricle",
+      "description": "Death of heart muscle due to lack of blood supply.",
+      "keywords": ["myocardial infarction", "heart attack", "mi", "st-segment elevation"]
+    },
+    "coronary_artery_disease": {
+      "name": "Coronary Artery Disease",
+      "organ": "heart",
+      "region": "coronary_arteries",
+      "description": "Damage or disease in the heart's major blood vessels.",
+      "keywords": ["coronary artery disease", "cad", "coronary narrowing", "atherosclerosis"]
+    },
+    "aortic_stenosis": {
+      "name": "Aortic Stenosis",
+      "organ": "heart",
+      "region": "aortic_valve",
+      "description": "Narrowing of the aortic valve opening.",
+      "keywords": ["aortic stenosis", "calcified aortic valve", "aortic valve narrowing"]
+    },
+    "mitral_regurgitation": {
+      "name": "Mitral Regurgitation",
+      "organ": "heart",
+      "region": "mitral_valve",
+      "description": "The mitral valve does not close tightly, allowing blood to flow backward.",
+      "keywords": ["mitral regurgitation", "mitral insufficiency", "leaky mitral valve", "mitral valve regurgitation", "regurgitation of mitral valve"]
+    }
+  }
+}

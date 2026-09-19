@@ -1,0 +1,32 @@
+ECHOCARDIOGRAPHY REPORT
+
+Patient: Jane Smith
+Date: 2024-02-20
+Referring Physician: Dr. Johnson
+
+FINDINGS:
+
+Left Ventricle:
+The left ventricle is normal in size and function.
+LVEF: 62%
+No wall motion abnormalities.
+
+Right Ventricle:
+Normal size and function.
+
+Valves:
+Mitral valve: There is systolic prolapse of the posterior mitral leaflet.
+Moderate mitral regurgitation is noted with an eccentric jet directed posteriorly.
+The mitral valve annulus is mildly dilated.
+
+Aortic valve: Trileaflet. Normal function.
+Tricuspid valve: Normal.
+
+Left Atrium:
+Mildly dilated at 40 mm, likely related to mitral valve disease.
+
+IMPRESSION:
+1. Mitral valve prolapse involving the posterior leaflet.
+2. Moderate mitral regurgitation.
+3. Mild left atrial dilatation.
+4. Normal left ventricular systolic function.

@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-rgMwf3md3p+iTqNvMHKXflXErLlEBLQEmE301510VYU=","packageName":"com.unity.xr.arcore","packageVersion":"6.6.2","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

@@ -1,0 +1,33 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "heart",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "ShowBuiltPlayer"
+    ],
+    "BuildProfilePath": "",
+    "BuildResult": 2,
+    "BuildResultName": "Failed",
+    "BuildSessionGUID": "0b9527c728e6271479e7e60226e033ef",
+    "BuildStartedAt": "2026-09-09T19:22:45.4687959Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "00000000000000000000000000000000",
+    "OutputPath": "C:/Users/RAJATH M P/OneDrive/Desktop/heart/frontend/public/unity-build",
+    "Platform": 20,
+    "PlatformName": "WebGL",
+    "Subtarget": 0,
+    "SubtargetName": "0",
+    "TotalErrors": 1,
+    "TotalSizeBytes": 0,
+    "TotalTimeMs": 29783,
+    "TotalWarnings": 0
+}

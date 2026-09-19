@@ -1,0 +1,35 @@
+ECHOCARDIOGRAPHY REPORT
+
+Patient: Sarah Brown
+Date: 2024-04-05
+Referring Physician: Dr. Davis
+
+FINDINGS:
+
+Left Ventricle:
+Normal size and function.
+LVEF: 60%
+No wall motion abnormalities.
+Normal wall thickness.
+
+Right Ventricle:
+Normal size and function.
+
+Valves:
+All valves appear structurally normal.
+No significant stenosis or regurgitation identified.
+
+Left Atrium:
+Normal size (35 mm).
+
+Right Atrium:
+Normal size.
+
+Pericardium:
+No pericardial effusion.
+
+IMPRESSION:
+1. Normal echocardiographic study.
+2. Normal biventricular size and systolic function.
+3. No significant valvular disease.
+4. No pericardial effusion.

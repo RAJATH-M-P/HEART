@@ -1,0 +1,35 @@
+ECHOCARDIOGRAPHY REPORT
+
+Patient: John Doe
+Date: 2024-01-15
+Referring Physician: Dr. Smith
+
+FINDINGS:
+
+Left Ventricle:
+The left ventricle is normal in size. There is concentric left ventricular hypertrophy.
+Interventricular septum thickness: 14 mm (normal < 11 mm)
+Left ventricular posterior wall: 13 mm (normal < 11 mm)
+Left ventricular internal dimension in diastole (LVIDD): 48 mm
+Left ventricular ejection fraction (LVEF): 55%
+No regional wall motion abnormalities are identified.
+
+Right Ventricle:
+The right ventricle is normal in size and function.
+
+Left Atrium:
+The left atrium is mildly dilated at 42 mm.
+
+Valves:
+Mitral valve: Normal leaflet motion. Trace mitral regurgitation.
+Aortic valve: Trileaflet. No significant stenosis or regurgitation.
+Tricuspid valve: Normal. Trace tricuspid regurgitation.
+
+Pericardium:
+No pericardial effusion.
+
+IMPRESSION:
+1. Moderate concentric left ventricular hypertrophy.
+2. Mildly dilated left atrium.
+3. Preserved left ventricular systolic function with EF 55%.
+4. Trace mitral and tricuspid regurgitation (physiologic).

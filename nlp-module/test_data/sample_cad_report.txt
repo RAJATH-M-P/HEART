@@ -1,0 +1,32 @@
+CARDIAC CATHETERIZATION REPORT
+
+Patient: Robert Williams
+Date: 2024-03-10
+Referring Physician: Dr. Anderson
+
+PROCEDURE: Left heart catheterization and coronary angiography
+
+FINDINGS:
+
+Left Main Coronary Artery: No significant stenosis.
+
+Left Anterior Descending (LAD): Severe 85% stenosis in the proximal segment.
+A moderate 60% stenosis in the mid-segment.
+
+Left Circumflex (LCx): Mild 30% stenosis in the proximal segment.
+
+Right Coronary Artery (RCA): Moderate 70% stenosis in the mid-segment.
+
+Left Ventricular Function:
+LVEF: 45% (mildly reduced)
+Anterior wall hypokinesis noted.
+
+IMPRESSION:
+1. Severe coronary artery disease with multi-vessel involvement.
+2. Critical LAD stenosis (85%) requiring intervention.
+3. Significant RCA disease (70%).
+4. Mildly reduced left ventricular systolic function (EF 45%).
+
+RECOMMENDATION:
+Consider percutaneous coronary intervention (PCI) to the LAD lesion
+or coronary artery bypass grafting (CABG) given multi-vessel disease.
