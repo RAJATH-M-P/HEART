@@ -54,9 +54,16 @@ public class UIManager : MonoBehaviour
         }
     }
 
-    public void DisplayMedicalInfo(string organ, string condition, string regions, string severity)
+    public void DisplayMedicalInfo(string condition, string severity, string summary)
     {
-        string formattedInfo = $"Organ: {organ} | Condition: {condition} | Regions: {regions} | Severity: {severity}";
-        ShowStatus(formattedInfo);
+        if (infoPanel != null) infoPanel.SetActive(true);
+        
+        if (conditionTitleText != null)
+        {
+            conditionTitleText.text = "Condition: " + condition;
+            conditionTitleText.color = (severity == "severe") ? Color.red : (severity == "moderate" ? Color.yellow : Color.green);
+        }
+
+        ShowStatus($"Severity: {severity.ToUpper()}\n\n{summary}\n\n--\nDISCLAIMER: This visualization is for educational purposes and does not replace professional medical diagnosis.");
     }
 }
