@@ -220,8 +220,6 @@ class NlpEngine:
             "conditionCode": "NORMAL",
             "affectedRegions": [],
             "severity": "none",
-            "summary": "No significant cardiac conditions were detected in this report. "
-                       "The report may describe normal findings or conditions not currently "
-                       "in our knowledge base.",
+            "summary": "No significant cardiac conditions were detected in this report.",
             "keyFindings": [],
         }
